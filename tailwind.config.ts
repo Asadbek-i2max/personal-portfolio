@@ -16,7 +16,6 @@ const config: Config = {
   		colors: {}
   	}
   },
-  plugins: [require("tailwindcss-animate")],
 };
 
 export default config;
