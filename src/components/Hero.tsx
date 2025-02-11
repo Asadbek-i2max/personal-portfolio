@@ -24,7 +24,7 @@ const Hero: React.FC = () => {
             <img
               src={PROFILE}
               alt="Profile picture"
-              className="w-80 h-80 md:w-96 md:h-96 rounded-full object-cover rounded-md"
+              className="w-80 h-80 md:w-96 md:h-96 rounded-full object-cover"
             />
           </div>
         </div>
