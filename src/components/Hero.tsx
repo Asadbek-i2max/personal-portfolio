@@ -1,5 +1,5 @@
 import { HERO_CONTENT } from '../utils';
-
+import React from 'react';
 import PROFILE from '../assets/profile.jpeg';
 
 const Hero: React.FC = () => {

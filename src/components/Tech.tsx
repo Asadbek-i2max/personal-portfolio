@@ -1,8 +1,10 @@
-import { RiReactjsLine } from "react-icons/ri";
+import React from 'react';
+
+import { RiReactjsLine } from 'react-icons/ri';
 import { SiTypescript } from 'react-icons/si';
 import { IoLogoJavascript } from 'react-icons/io5';
 import { RiNextjsFill } from 'react-icons/ri';
-import { DiNodejs } from "react-icons/di";
+import { DiNodejs } from 'react-icons/di';
 import { AiOutlineConsoleSql } from 'react-icons/ai';
 
 const Tech: React.FC = () => {

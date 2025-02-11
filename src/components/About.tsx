@@ -1,3 +1,4 @@
+import React from 'react';
 import { ABOUT_CONTENT } from '../utils';
 
 import ABOUT_IMAGE from '../assets/about.jpg';
