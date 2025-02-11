@@ -1,0 +1,2 @@
+export const HERO_CONTENT: string =
+  "I'm Alejandro Herrera, a passionate Front-End Developer who transforms ideas into visually stunning, interactive, and user-friendly experiences. With a deep love for clean UI, pixel-perfect designs, and seamless functionality, I specialize in building modern web applications that don't just look great—they feel great to use. Let's craft something amazing together. 🚀";
