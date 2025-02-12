@@ -1,5 +1,7 @@
 import React from 'react';
 
+import { motion } from 'framer-motion';
+
 const skills: string[] = [
   'HTML5, CSS3',
   'Javascript',
@@ -22,8 +24,20 @@ const skills: string[] = [
 const Skills: React.FC = () => {
   return (
     <div className="border-b border-neutral-900 pb-4 lg:mb-35">
-      <h1 className="my-20 text-center text-4xl">Skills</h1>
-      <div className="mb-8 flex flex-wrap gap-4 lg:justify-center">
+      <motion.h1
+        whileInView={{ opacity: 1, y: 0 }}
+        initial={{ opacity: 0, y: -100 }}
+        transition={{ duration: 1 }}
+        className="my-20 text-center text-4xl"
+      >
+        Skills
+      </motion.h1>
+      <motion.div
+        whileInView={{ opacity: 1, x: 0 }}
+        initial={{ opacity: 0, x: -100 }}
+        transition={{ duration: 1.5 }}
+        className="mb-8 flex flex-wrap gap-4 lg:justify-center"
+      >
         {skills.map((skill, index) => (
           <span
             key={index}
@@ -32,7 +46,7 @@ const Skills: React.FC = () => {
             {skill}
           </span>
         ))}
-      </div>
+      </motion.div>
     </div>
   );
 };
