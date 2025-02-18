@@ -1,21 +1,21 @@
 {
-  "name": "Jorge Cortez",
+  "name": "Хорхе Кортес",
   "blockTitle": {
-    "about": "About me",
-    "tech": "Technologies",
-    "skills": "Skills",
-    "experience": "Experience",
-    "projects": "Projects",
-    "contact": "Get in touch"
+    "about": "Мен ҳақимда",
+    "tech": "Технологиялар",
+    "skills": "Қобилиятлар",
+    "experience": "Тажриба",
+    "projects": "Лойиҳалар",
+    "contact": "Боғланинг"
   },
-  "heroContent": "I'm Alejandro Herrera, a passionate Front-End Developer who transforms ideas into visually stunning, interactive, and user-friendly experiences. With a deep love for clean UI, pixel-perfect designs, and seamless functionality, I specialize in building modern web applications that don't just look great—they feel great to use. Let's craft something amazing together. 🚀",
-  "aboutContent": "Hi, I’m Jorge Cortez, a Front-End & Salesforce Developer passionate about building intuitive, scalable, and high-performance applications. My journey in development has been a mix of crafting modern web experiences and diving deep into the Salesforce ecosystem, blending the best of both worlds. On the front-end, I specialize in ReactJS, TypeScript, and modern UI frameworks to create fast, user-friendly, and visually appealing interfaces.",
+  "heroContent": "Мен Алехандро Эррераман, ғояларни визуал жиҳатдан жозибадор, интерактив ва фойдаланувчи учун қулай тажрибага айлантирадиган Front-End дастурчиси. Мен аниқ UI, пикселга мос дизайн ва мукаммал функционалликни яхши кўраман. Замонавий веб-иловаларни яратишга ихтисослашганман, улар нафақат чиройли кўринишга эга, балки ишлатиш учун жуда қулай. Келинг, бирга ажойиб нарса яратайлик! 🚀",
+  "aboutContent": "Салом, мен Хорхе Кортес, Front-End ва Salesforce дастурчиси. Мен интуитив, кенгайувчан ва юқори самарадорликка эга илова яратишни яхши кўраман. Менинг дастурлаш соҳасидаги йўлларим замонавий веб-тажрибалар яратиш ва Salesforce экотизимидаги чуқур билимларни бирлаштиришдан иборат. Front-End соҳасида ReactJS, TypeScript ва замонавий UI-frameworkлар билан ишлашга ихтисослашганман.",
   "experiences": [
     {
-      "year": "2022 - Present",
-      "role": "Full-stack developer (Salesforce)",
-      "company": "I2max South Korea",
-      "description": "Responsibilities: Develop and customize Salesforce applications using Apex, Lightning Web Components (LWC -> Html, Css, Js), Visualforce and declarative tools. Create and optimize REST API integrations between Salesforce and external systems.",
+      "year": "2022 - Ҳозирги кун",
+      "role": "Full-stack дастурчи (Salesforce)",
+      "company": "I2max Жанубий Корея",
+      "description": "Масъулиятлар: Salesforce дастурларини Apex, Lightning Web Components (LWC -> Html, Css, Js), Visualforce ва декларатив воситалар ёрдамида ишлаб чиқиш ва созлаш. Salesforce ва ташқи тизимлар ўртасида REST API интеграциясини яратиш ва оптималлаштириш.",
       "technologies": [
         "Apex",
         "LWC",
@@ -31,7 +31,7 @@
     {
       "title": "Telemax",
       "image": "telegram.png",
-      "description": "Telegram bot channel and salesforce platform custom integration project. Involves: Custom object triggers, platform events, messenger application component to send and receive messages, customer registration form, case creation, reports and dashboards.",
+      "description": "Telegram bot kanali va salesforce platformasi uchun maxsus integratsiya loyihasi. O'z ichiga oladi: moslashtirilgan ob'ekt triggerlari, platforma hodisalari, xabarlarni jo'natish va qabul qilish uchun messenjer ilovasi komponenti, mijozlarni ro'yxatga olish shakli, ish yaratish, hisobotlar va asboblar paneli.",
       "technologies": [
         "Lightning web components",
         "HTML, CSS, JS",
@@ -43,7 +43,7 @@
     {
       "title": "Linemax",
       "image": "line.png",
-      "description": "Line messenger channel and salesforce platform custom integration project. Involves: Custom object triggers, platform events, messenger application component to send and receive messages, customer registration form, case creation, reports and dashboards.",
+      "description": "Line messenger kanali va salesforce platformasining maxsus integratsiya loyihasi. O'z ichiga oladi: moslashtirilgan ob'ekt triggerlari, platforma hodisalari, xabarlarni jo'natish va qabul qilish uchun messenjer ilovasi komponenti, mijozlarni ro'yxatga olish shakli, ish yaratish, hisobotlar va asboblar paneli.",
       "technologies": [
         "Lightning web components",
         "HTML, CSS, JS",
@@ -53,9 +53,9 @@
       ]
     },
     {
-      "title": "i2max company corporate site",
+      "title": "i2max kompaniyasining korporativ sayti",
       "image": "i2max.png",
-      "description": "i2max.co.kr corporate company site of South Korean Salesforce platinum partner company. Site made in Experience cloud. Site involves dynamic data rendering, use of 3rd party tools, Login/Registration, training center.",
+      "description": "Janubiy Koreyaning Salesforce platinali hamkor kompaniyasining i2max.co.kr korporativ kompaniyasi sayti. Sayt Experience bulutida yaratilgan. Sayt dinamik ma'lumotlarni ko'rsatish, uchinchi tomon vositalaridan foydalanish, Kirish/Ro'yxatdan o'tish, o'quv markazini o'z ichiga oladi.",
       "technologies": [
         "Lightning web components",
         "HTML, CSS, JS",
@@ -66,9 +66,9 @@
       ]
     },
     {
-      "title": "HCA (Hyundai, Kia, Genesis) customer portal",
+      "title": "HCA (Hyundai, Kia, Genesis) mijozlar portali",
       "image": "hca.png",
-      "description": "Hyunda, Kia and Genesis autralian customer portal. Made with Salesforce experience cloud. Has dynamic data rendering, usage of 3rd party tools, calculating systems, Payment system, Login/Registration.",
+      "description": "Hyunda, Kia va Genesis Avstraliya mijozlar portali. Salesforce tajriba buluti bilan yaratilgan. Dinamik ma'lumotlarni ko'rsatish, uchinchi tomon vositalaridan foydalanish, hisoblash tizimlari, To'lov tizimi, Kirish/Ro'yxatdan o'tish.",
       "technologies": [
         "Lightning web components",
         "HTML, CSS, JS",
@@ -81,7 +81,7 @@
     {
       "title": "I2OC multimessenger chat",
       "image": "omnichat.png",
-      "description": "I2OC chat is the multimessenger salesforce application that allows to connect with multiple channels as Telegram, Line, Whatsapp and Wechat at once. Involves: Custom object triggers, platform events, messenger application component as well as custom component that allows to create connection and keep credentails.",
+      "description": "I2OC chat - bu bir vaqtning o'zida Telegram, Line, Whatsapp va Wechat kabi bir nechta kanallar bilan bog'lanish imkonini beruvchi multimessenger sotuvchi ilovasi. O'z ichiga oladi: moslashtirilgan ob'ekt triggerlari, platforma hodisalari, messenjer ilovasi komponenti, shuningdek ulanishni yaratish va hisobga olish ma'lumotlarini saqlash imkonini beruvchi maxsus komponent.",
       "technologies": [
         "RestAPI",
         "Lightning web components",
@@ -92,14 +92,14 @@
       ]
     },
     {
-      "title": "Travel website for FlyTrip",
+      "title": "FlyTrip uchun travel veb-sayti",
       "image": "fly-trip.png",
-      "description": "Travel agency website made with Vite React JSX components and TailwindCSS",
+      "description": "Vite React JSX komponentlari va TailwindCSS bilan yaratilgan travel agentligi veb-sayti",
       "technologies": ["HTML, CSS, JS", "ReactJS", "TailwindCSS"]
     }
   ],
   "contact": {
-    "address": "767 Fifth Avenue, New York, NY 10153",
+    "address": "767 Бешинчи авеню, Нью-Йорк, NY 10153",
     "phoneNo": "+998 99 889 01 33",
     "email": "asadkhojimatov@gmail.com"
   }

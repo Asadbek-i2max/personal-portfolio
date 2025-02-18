@@ -1,21 +1,21 @@
 {
   "name": "Jorge Cortez",
   "blockTitle": {
-    "about": "About me",
-    "tech": "Technologies",
-    "skills": "Skills",
-    "experience": "Experience",
-    "projects": "Projects",
-    "contact": "Get in touch"
+    "about": "Sobre mí",
+    "tech": "Tecnologías",
+    "skills": "Habilidades",
+    "experience": "Experiencia",
+    "projects": "Proyectos",
+    "contact": "Contacto"
   },
-  "heroContent": "I'm Alejandro Herrera, a passionate Front-End Developer who transforms ideas into visually stunning, interactive, and user-friendly experiences. With a deep love for clean UI, pixel-perfect designs, and seamless functionality, I specialize in building modern web applications that don't just look great—they feel great to use. Let's craft something amazing together. 🚀",
-  "aboutContent": "Hi, I’m Jorge Cortez, a Front-End & Salesforce Developer passionate about building intuitive, scalable, and high-performance applications. My journey in development has been a mix of crafting modern web experiences and diving deep into the Salesforce ecosystem, blending the best of both worlds. On the front-end, I specialize in ReactJS, TypeScript, and modern UI frameworks to create fast, user-friendly, and visually appealing interfaces.",
+  "heroContent": "Soy Alejandro Herrera, un apasionado desarrollador Front-End que transforma ideas en experiencias visualmente atractivas, interactivas y fáciles de usar. Con un gran amor por el diseño limpio, los píxeles perfectos y la funcionalidad sin problemas, me especializo en la creación de aplicaciones web modernas que no solo se ven geniales, sino que también son cómodas de usar. ¡Creemos algo increíble juntos! 🚀",
+  "aboutContent": "Hola, soy Jorge Cortez, un desarrollador Front-End y de Salesforce apasionado por la creación de aplicaciones intuitivas, escalables y de alto rendimiento. Mi trayectoria en el desarrollo combina la creación de experiencias web modernas con un profundo conocimiento del ecosistema de Salesforce, fusionando lo mejor de ambos mundos. En el Front-End, me especializo en ReactJS, TypeScript y frameworks modernos para crear interfaces rápidas, atractivas y fáciles de usar.",
   "experiences": [
     {
-      "year": "2022 - Present",
-      "role": "Full-stack developer (Salesforce)",
-      "company": "I2max South Korea",
-      "description": "Responsibilities: Develop and customize Salesforce applications using Apex, Lightning Web Components (LWC -> Html, Css, Js), Visualforce and declarative tools. Create and optimize REST API integrations between Salesforce and external systems.",
+      "year": "2022 - Presente",
+      "role": "Desarrollador Full-stack (Salesforce)",
+      "company": "I2max Corea del Sur",
+      "description": "Responsabilidades: Desarrollar y personalizar aplicaciones en Salesforce utilizando Apex, Lightning Web Components (LWC -> Html, Css, Js), Visualforce y herramientas declarativas. Crear y optimizar integraciones REST API entre Salesforce y sistemas externos.",
       "technologies": [
         "Apex",
         "LWC",
@@ -31,7 +31,7 @@
     {
       "title": "Telemax",
       "image": "telegram.png",
-      "description": "Telegram bot channel and salesforce platform custom integration project. Involves: Custom object triggers, platform events, messenger application component to send and receive messages, customer registration form, case creation, reports and dashboards.",
+      "description": "Proyecto de integración personalizada del canal bot de Telegram y la plataforma Salesforce. Implica: Activadores de objetos personalizados, eventos de plataforma, componente de aplicación de mensajería para enviar y recibir mensajes, formulario de registro de clientes, creación de casos, informes y paneles.",
       "technologies": [
         "Lightning web components",
         "HTML, CSS, JS",
@@ -43,7 +43,7 @@
     {
       "title": "Linemax",
       "image": "line.png",
-      "description": "Line messenger channel and salesforce platform custom integration project. Involves: Custom object triggers, platform events, messenger application component to send and receive messages, customer registration form, case creation, reports and dashboards.",
+      "description": "Proyecto de integración personalizada del canal Line Messenger y la plataforma Salesforce. Implica: Activadores de objetos personalizados, eventos de plataforma, componente de aplicación de mensajería para enviar y recibir mensajes, formulario de registro de clientes, creación de casos, informes y paneles.",
       "technologies": [
         "Lightning web components",
         "HTML, CSS, JS",
@@ -53,9 +53,9 @@
       ]
     },
     {
-      "title": "i2max company corporate site",
+      "title": "Sitio corporativo de la empresa i2max.",
       "image": "i2max.png",
-      "description": "i2max.co.kr corporate company site of South Korean Salesforce platinum partner company. Site made in Experience cloud. Site involves dynamic data rendering, use of 3rd party tools, Login/Registration, training center.",
+      "description": "i2max.co.kr sitio corporativo de la empresa socia platino de Salesforce de Corea del Sur. Sitio realizado en Experience Cloud. El sitio implica representación dinámica de datos, uso de herramientas de terceros, inicio de sesión/registro, centro de capacitación.",
       "technologies": [
         "Lightning web components",
         "HTML, CSS, JS",
@@ -66,9 +66,9 @@
       ]
     },
     {
-      "title": "HCA (Hyundai, Kia, Genesis) customer portal",
+      "title": "Portal del cliente HCA (Hyundai, Kia, Génesis)",
       "image": "hca.png",
-      "description": "Hyunda, Kia and Genesis autralian customer portal. Made with Salesforce experience cloud. Has dynamic data rendering, usage of 3rd party tools, calculating systems, Payment system, Login/Registration.",
+      "description": "Portal de clientes australianos de Hyunda, Kia y Genesis. Realizado con la nube de experiencia de Salesforce. Tiene representación dinámica de datos, uso de herramientas de terceros, sistemas de cálculo, sistema de pago, inicio de sesión/registro.",
       "technologies": [
         "Lightning web components",
         "HTML, CSS, JS",
@@ -79,9 +79,9 @@
       ]
     },
     {
-      "title": "I2OC multimessenger chat",
+      "title": "Chat multimensajería I2OC",
       "image": "omnichat.png",
-      "description": "I2OC chat is the multimessenger salesforce application that allows to connect with multiple channels as Telegram, Line, Whatsapp and Wechat at once. Involves: Custom object triggers, platform events, messenger application component as well as custom component that allows to create connection and keep credentails.",
+      "description": "I2OC chat es la aplicación Salesforce multimensajería que permite conectarse con múltiples canales como Telegram, Line, Whatsapp y Wechat a la vez. Implica: activadores de objetos personalizados, eventos de plataforma, componentes de aplicaciones de mensajería y componentes personalizados que permiten crear conexiones y mantener credenciales.",
       "technologies": [
         "RestAPI",
         "Lightning web components",
@@ -92,14 +92,14 @@
       ]
     },
     {
-      "title": "Travel website for FlyTrip",
+      "title": "Sitio web de viajes para FlyTrip",
       "image": "fly-trip.png",
-      "description": "Travel agency website made with Vite React JSX components and TailwindCSS",
+      "description": "Sitio web de agencia de viajes realizado con componentes Vite React JSX y TailwindCSS",
       "technologies": ["HTML, CSS, JS", "ReactJS", "TailwindCSS"]
     }
   ],
   "contact": {
-    "address": "767 Fifth Avenue, New York, NY 10153",
+    "address": "767 Quinta Avenida, Nueva York, NY 10153",
     "phoneNo": "+998 99 889 01 33",
     "email": "asadkhojimatov@gmail.com"
   }
