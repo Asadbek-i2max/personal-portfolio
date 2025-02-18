@@ -1,9 +1,11 @@
 import React from 'react';
 
-import { CONTACT } from '../utils';
+import { useContent } from '../utils';
 import { motion } from 'framer-motion';
 
 const Contact: React.FC = () => {
+  const { CONTACT } = useContent();
+
   return (
     <div className="border-b border-neutral-900 pb-20">
       <motion.h1
@@ -31,10 +33,7 @@ const Contact: React.FC = () => {
         >
           {CONTACT.phoneNo}
         </motion.p>
-        <a
-          href="#"
-          className="border-b"
-        >
+        <a href="#" className="border-b">
           {CONTACT.email}
         </a>
       </div>

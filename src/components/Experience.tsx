@@ -1,9 +1,11 @@
-import { EXPERIENCES } from '../utils';
+import { useContent } from '../utils';
 
 import React from 'react';
 import { motion } from 'framer-motion';
 
 const Experience: React.FC = () => {
+  const { EXPERIENCES } = useContent();
+
   return (
     <div className="border-b border-neutral-900 pb-4">
       <motion.h1

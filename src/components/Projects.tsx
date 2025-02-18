@@ -1,9 +1,11 @@
 import React from 'react';
-import { PROJECTS } from '../utils';
+import { useContent } from '../utils';
 
 import { motion } from 'framer-motion';
 
 const Projects: React.FC = () => {
+  const { PROJECTS } = useContent();
+
   return (
     <div className="border-b border-neutral-900 pb-4">
       <motion.h2
