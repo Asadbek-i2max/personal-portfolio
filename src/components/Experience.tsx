@@ -4,7 +4,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 const Experience: React.FC = () => {
-  const { EXPERIENCES } = useContent();
+  const { EXPERIENCES, BLOCK_TITLE } = useContent();
 
   return (
     <div className="border-b border-neutral-900 pb-4">
@@ -14,7 +14,7 @@ const Experience: React.FC = () => {
         transition={{ duration: 0.5 }}
         className="my-20 text-center text-4xl"
       >
-        Experience
+        {BLOCK_TITLE.experience}
       </motion.h1>
       <div>
         {EXPERIENCES.map((exp, index) => (

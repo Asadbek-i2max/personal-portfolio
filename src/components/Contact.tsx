@@ -4,7 +4,7 @@ import { useContent } from '../utils';
 import { motion } from 'framer-motion';
 
 const Contact: React.FC = () => {
-  const { CONTACT } = useContent();
+  const { CONTACT, BLOCK_TITLE } = useContent();
 
   return (
     <div className="border-b border-neutral-900 pb-20">
@@ -14,7 +14,7 @@ const Contact: React.FC = () => {
         transition={{ duration: 0.5 }}
         className="my-10 text-center text-4xl"
       >
-        Get in touch
+        {BLOCK_TITLE.contact}
       </motion.h1>
       <div className="text-center tracking-tighter">
         <motion.p

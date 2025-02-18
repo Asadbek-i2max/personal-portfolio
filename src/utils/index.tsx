@@ -6,6 +6,10 @@ export const useContent = () => {
   const { t } = useTranslation();
 
   return {
+    NAME: t('name'),
+    BLOCK_TITLE: t('blockTitle', {
+      returnObjects: true,
+    }) as Content['BLOCK_TITLE'],
     HERO_CONTENT: t('heroContent'),
     ABOUT_CONTENT: t('aboutContent'),
     EXPERIENCES: t('experiences', {

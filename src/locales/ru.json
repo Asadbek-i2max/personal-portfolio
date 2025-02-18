@@ -1,12 +1,21 @@
 {
-  "heroContent": "Я Алехандро Эррера, страстный фронтенд-разработчик, который превращает идеи в визуально потрясающие, интерактивные и удобные для пользователей интерфейсы...",
-  "aboutContent": "Привет, я Хорхе Кортес, фронтенд и Salesforce-разработчик, увлеченный созданием интуитивно понятных, масштабируемых и высокопроизводительных приложений...",
+  "name": "Jorge Cortez",
+  "blockTitle": {
+    "about": "About me",
+    "tech": "Technologies",
+    "skills": "Skills",
+    "experience": "Experience",
+    "projects": "Projects",
+    "contact": "Get in touch"
+  },
+  "heroContent": "I'm Alejandro Herrera, a passionate Front-End Developer who transforms ideas into visually stunning, interactive, and user-friendly experiences. With a deep love for clean UI, pixel-perfect designs, and seamless functionality, I specialize in building modern web applications that don't just look great—they feel great to use. Let's craft something amazing together. 🚀",
+  "aboutContent": "Hi, I’m Jorge Cortez, a Front-End & Salesforce Developer passionate about building intuitive, scalable, and high-performance applications. My journey in development has been a mix of crafting modern web experiences and diving deep into the Salesforce ecosystem, blending the best of both worlds. On the front-end, I specialize in ReactJS, TypeScript, and modern UI frameworks to create fast, user-friendly, and visually appealing interfaces.",
   "experiences": [
     {
-      "year": "2022 - настоящее время",
-      "role": "Full-stack разработчик (Salesforce)",
-      "company": "I2max Южная Корея",
-      "description": "Обязанности: разработка и настройка Salesforce-приложений с использованием Apex, LWC, Visualforce и декларативных инструментов...",
+      "year": "2022 - Present",
+      "role": "Full-stack developer (Salesforce)",
+      "company": "I2max South Korea",
+      "description": "Responsibilities: Develop and customize Salesforce applications using Apex, Lightning Web Components (LWC -> Html, Css, Js), Visualforce and declarative tools. Create and optimize REST API integrations between Salesforce and external systems.",
       "technologies": [
         "Apex",
         "LWC",
@@ -20,14 +29,77 @@
   ],
   "projects": [
     {
-      "title": "Проект 1",
-      "image": "Изображение",
-      "description": "Описание проекта",
-      "technologies": ["1", "2", "3"]
+      "title": "Telemax",
+      "image": "telegram.png",
+      "description": "Telegram bot channel and salesforce platform custom integration project. Involves: Custom object triggers, platform events, messenger application component to send and receive messages, customer registration form, case creation, reports and dashboards.",
+      "technologies": [
+        "Lightning web components",
+        "HTML, CSS, JS",
+        "Apex",
+        "Visualforce",
+        "RESTApi"
+      ]
+    },
+    {
+      "title": "Linemax",
+      "image": "line.png",
+      "description": "Line messenger channel and salesforce platform custom integration project. Involves: Custom object triggers, platform events, messenger application component to send and receive messages, customer registration form, case creation, reports and dashboards.",
+      "technologies": [
+        "Lightning web components",
+        "HTML, CSS, JS",
+        "Apex",
+        "Visualforce",
+        "RESTApi"
+      ]
+    },
+    {
+      "title": "i2max company corporate site",
+      "image": "i2max.png",
+      "description": "i2max.co.kr corporate company site of South Korean Salesforce platinum partner company. Site made in Experience cloud. Site involves dynamic data rendering, use of 3rd party tools, Login/Registration, training center.",
+      "technologies": [
+        "Lightning web components",
+        "HTML, CSS, JS",
+        "Apex",
+        "Visualforce",
+        "Salesforce Experience cloud",
+        "RestAPI"
+      ]
+    },
+    {
+      "title": "HCA (Hyundai, Kia, Genesis) customer portal",
+      "image": "hca.png",
+      "description": "Hyunda, Kia and Genesis autralian customer portal. Made with Salesforce experience cloud. Has dynamic data rendering, usage of 3rd party tools, calculating systems, Payment system, Login/Registration.",
+      "technologies": [
+        "Lightning web components",
+        "HTML, CSS, JS",
+        "Apex",
+        "Visualforce",
+        "Salesforce Experience cloud",
+        "RestAPI"
+      ]
+    },
+    {
+      "title": "I2OC multimessenger chat",
+      "image": "omnichat.png",
+      "description": "I2OC chat is the multimessenger salesforce application that allows to connect with multiple channels as Telegram, Line, Whatsapp and Wechat at once. Involves: Custom object triggers, platform events, messenger application component as well as custom component that allows to create connection and keep credentails.",
+      "technologies": [
+        "RestAPI",
+        "Lightning web components",
+        "HTML, CSS, JS",
+        "TailwindCSS",
+        "Visualforce",
+        "Apex"
+      ]
+    },
+    {
+      "title": "Travel website for FlyTrip",
+      "image": "fly-trip.png",
+      "description": "Travel agency website made with Vite React JSX components and TailwindCSS",
+      "technologies": ["HTML, CSS, JS", "ReactJS", "TailwindCSS"]
     }
   ],
   "contact": {
-    "address": "767 Пятая авеню, Нью-Йорк, NY 10153",
+    "address": "767 Fifth Avenue, New York, NY 10153",
     "phoneNo": "+998 99 889 01 33",
     "email": "asadkhojimatov@gmail.com"
   }

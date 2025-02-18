@@ -6,13 +6,12 @@ import ABOUT_IMAGE from '../assets/about.jpg';
 import { motion } from 'framer-motion';
 
 const About: React.FC = () => {
-  const { ABOUT_CONTENT } = useContent();
+  const { ABOUT_CONTENT, BLOCK_TITLE } = useContent();
 
   return (
     <div className="border-b border-neutral-900 pb-4">
       <h1 className="my-20 text-center text-4xl">
-        About
-        <span className="text-neutral-500"> Me</span>
+        {BLOCK_TITLE.about}
       </h1>
       <div className="flex flex-wrap">
         <motion.div
