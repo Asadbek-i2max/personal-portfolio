@@ -1,6 +1,7 @@
 import React from 'react';
 
 import { motion } from 'framer-motion';
+import { useContent } from '../utils';
 
 const skills: string[] = [
   'HTML5, CSS3',
@@ -22,6 +23,7 @@ const skills: string[] = [
 ];
 
 const Skills: React.FC = () => {
+  const { BLOCK_TITLE } = useContent();
   return (
     <div className="border-b border-neutral-900 pb-4 lg:mb-35">
       <motion.h1
@@ -30,7 +32,7 @@ const Skills: React.FC = () => {
         transition={{ duration: 1 }}
         className="my-20 text-center text-4xl"
       >
-        Skills
+        {BLOCK_TITLE.skills}
       </motion.h1>
       <motion.div
         whileInView={{ opacity: 1, x: 0 }}

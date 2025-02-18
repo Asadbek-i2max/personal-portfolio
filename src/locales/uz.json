@@ -1,0 +1,106 @@
+{
+  "name": "Хорхе Кортес",
+  "blockTitle": {
+    "about": "Мен ҳақимда",
+    "tech": "Технологиялар",
+    "skills": "Қобилиятлар",
+    "experience": "Тажриба",
+    "projects": "Лойиҳалар",
+    "contact": "Боғланинг"
+  },
+  "heroContent": "Мен Алехандро Эррераман, ғояларни визуал жиҳатдан жозибадор, интерактив ва фойдаланувчи учун қулай тажрибага айлантирадиган Front-End дастурчиси. Мен аниқ UI, пикселга мос дизайн ва мукаммал функционалликни яхши кўраман. Замонавий веб-иловаларни яратишга ихтисослашганман, улар нафақат чиройли кўринишга эга, балки ишлатиш учун жуда қулай. Келинг, бирга ажойиб нарса яратайлик! 🚀",
+  "aboutContent": "Салом, мен Хорхе Кортес, Front-End ва Salesforce дастурчиси. Мен интуитив, кенгайувчан ва юқори самарадорликка эга илова яратишни яхши кўраман. Менинг дастурлаш соҳасидаги йўлларим замонавий веб-тажрибалар яратиш ва Salesforce экотизимидаги чуқур билимларни бирлаштиришдан иборат. Front-End соҳасида ReactJS, TypeScript ва замонавий UI-frameworkлар билан ишлашга ихтисослашганман.",
+  "experiences": [
+    {
+      "year": "2022 - Ҳозирги кун",
+      "role": "Full-stack дастурчи (Salesforce)",
+      "company": "I2max Жанубий Корея",
+      "description": "Масъулиятлар: Salesforce дастурларини Apex, Lightning Web Components (LWC -> Html, Css, Js), Visualforce ва декларатив воситалар ёрдамида ишлаб чиқиш ва созлаш. Salesforce ва ташқи тизимлар ўртасида REST API интеграциясини яратиш ва оптималлаштириш.",
+      "technologies": [
+        "Apex",
+        "LWC",
+        "Visualforce",
+        "RestApi",
+        "Javascript",
+        "CSS",
+        "Tailwind"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Telemax",
+      "image": "telegram.png",
+      "description": "Telegram bot kanali va salesforce platformasi uchun maxsus integratsiya loyihasi. O'z ichiga oladi: moslashtirilgan ob'ekt triggerlari, platforma hodisalari, xabarlarni jo'natish va qabul qilish uchun messenjer ilovasi komponenti, mijozlarni ro'yxatga olish shakli, ish yaratish, hisobotlar va asboblar paneli.",
+      "technologies": [
+        "Lightning web components",
+        "HTML, CSS, JS",
+        "Apex",
+        "Visualforce",
+        "RESTApi"
+      ]
+    },
+    {
+      "title": "Linemax",
+      "image": "line.png",
+      "description": "Line messenger kanali va salesforce platformasining maxsus integratsiya loyihasi. O'z ichiga oladi: moslashtirilgan ob'ekt triggerlari, platforma hodisalari, xabarlarni jo'natish va qabul qilish uchun messenjer ilovasi komponenti, mijozlarni ro'yxatga olish shakli, ish yaratish, hisobotlar va asboblar paneli.",
+      "technologies": [
+        "Lightning web components",
+        "HTML, CSS, JS",
+        "Apex",
+        "Visualforce",
+        "RESTApi"
+      ]
+    },
+    {
+      "title": "i2max kompaniyasining korporativ sayti",
+      "image": "i2max.png",
+      "description": "Janubiy Koreyaning Salesforce platinali hamkor kompaniyasining i2max.co.kr korporativ kompaniyasi sayti. Sayt Experience bulutida yaratilgan. Sayt dinamik ma'lumotlarni ko'rsatish, uchinchi tomon vositalaridan foydalanish, Kirish/Ro'yxatdan o'tish, o'quv markazini o'z ichiga oladi.",
+      "technologies": [
+        "Lightning web components",
+        "HTML, CSS, JS",
+        "Apex",
+        "Visualforce",
+        "Salesforce Experience cloud",
+        "RestAPI"
+      ]
+    },
+    {
+      "title": "HCA (Hyundai, Kia, Genesis) mijozlar portali",
+      "image": "hca.png",
+      "description": "Hyunda, Kia va Genesis Avstraliya mijozlar portali. Salesforce tajriba buluti bilan yaratilgan. Dinamik ma'lumotlarni ko'rsatish, uchinchi tomon vositalaridan foydalanish, hisoblash tizimlari, To'lov tizimi, Kirish/Ro'yxatdan o'tish.",
+      "technologies": [
+        "Lightning web components",
+        "HTML, CSS, JS",
+        "Apex",
+        "Visualforce",
+        "Salesforce Experience cloud",
+        "RestAPI"
+      ]
+    },
+    {
+      "title": "I2OC multimessenger chat",
+      "image": "omnichat.png",
+      "description": "I2OC chat - bu bir vaqtning o'zida Telegram, Line, Whatsapp va Wechat kabi bir nechta kanallar bilan bog'lanish imkonini beruvchi multimessenger sotuvchi ilovasi. O'z ichiga oladi: moslashtirilgan ob'ekt triggerlari, platforma hodisalari, messenjer ilovasi komponenti, shuningdek ulanishni yaratish va hisobga olish ma'lumotlarini saqlash imkonini beruvchi maxsus komponent.",
+      "technologies": [
+        "RestAPI",
+        "Lightning web components",
+        "HTML, CSS, JS",
+        "TailwindCSS",
+        "Visualforce",
+        "Apex"
+      ]
+    },
+    {
+      "title": "FlyTrip uchun travel veb-sayti",
+      "image": "fly-trip.png",
+      "description": "Vite React JSX komponentlari va TailwindCSS bilan yaratilgan travel agentligi veb-sayti",
+      "technologies": ["HTML, CSS, JS", "ReactJS", "TailwindCSS"]
+    }
+  ],
+  "contact": {
+    "address": "767 Бешинчи авеню, Нью-Йорк, NY 10153",
+    "phoneNo": "+998 99 889 01 33",
+    "email": "asadkhojimatov@gmail.com"
+  }
+}

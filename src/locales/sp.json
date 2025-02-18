@@ -1,0 +1,106 @@
+{
+  "name": "Jorge Cortez",
+  "blockTitle": {
+    "about": "Sobre mí",
+    "tech": "Tecnologías",
+    "skills": "Habilidades",
+    "experience": "Experiencia",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  },
+  "heroContent": "Soy Alejandro Herrera, un apasionado desarrollador Front-End que transforma ideas en experiencias visualmente atractivas, interactivas y fáciles de usar. Con un gran amor por el diseño limpio, los píxeles perfectos y la funcionalidad sin problemas, me especializo en la creación de aplicaciones web modernas que no solo se ven geniales, sino que también son cómodas de usar. ¡Creemos algo increíble juntos! 🚀",
+  "aboutContent": "Hola, soy Jorge Cortez, un desarrollador Front-End y de Salesforce apasionado por la creación de aplicaciones intuitivas, escalables y de alto rendimiento. Mi trayectoria en el desarrollo combina la creación de experiencias web modernas con un profundo conocimiento del ecosistema de Salesforce, fusionando lo mejor de ambos mundos. En el Front-End, me especializo en ReactJS, TypeScript y frameworks modernos para crear interfaces rápidas, atractivas y fáciles de usar.",
+  "experiences": [
+    {
+      "year": "2022 - Presente",
+      "role": "Desarrollador Full-stack (Salesforce)",
+      "company": "I2max Corea del Sur",
+      "description": "Responsabilidades: Desarrollar y personalizar aplicaciones en Salesforce utilizando Apex, Lightning Web Components (LWC -> Html, Css, Js), Visualforce y herramientas declarativas. Crear y optimizar integraciones REST API entre Salesforce y sistemas externos.",
+      "technologies": [
+        "Apex",
+        "LWC",
+        "Visualforce",
+        "RestApi",
+        "Javascript",
+        "CSS",
+        "Tailwind"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Telemax",
+      "image": "telegram.png",
+      "description": "Proyecto de integración personalizada del canal bot de Telegram y la plataforma Salesforce. Implica: Activadores de objetos personalizados, eventos de plataforma, componente de aplicación de mensajería para enviar y recibir mensajes, formulario de registro de clientes, creación de casos, informes y paneles.",
+      "technologies": [
+        "Lightning web components",
+        "HTML, CSS, JS",
+        "Apex",
+        "Visualforce",
+        "RESTApi"
+      ]
+    },
+    {
+      "title": "Linemax",
+      "image": "line.png",
+      "description": "Proyecto de integración personalizada del canal Line Messenger y la plataforma Salesforce. Implica: Activadores de objetos personalizados, eventos de plataforma, componente de aplicación de mensajería para enviar y recibir mensajes, formulario de registro de clientes, creación de casos, informes y paneles.",
+      "technologies": [
+        "Lightning web components",
+        "HTML, CSS, JS",
+        "Apex",
+        "Visualforce",
+        "RESTApi"
+      ]
+    },
+    {
+      "title": "Sitio corporativo de la empresa i2max.",
+      "image": "i2max.png",
+      "description": "i2max.co.kr sitio corporativo de la empresa socia platino de Salesforce de Corea del Sur. Sitio realizado en Experience Cloud. El sitio implica representación dinámica de datos, uso de herramientas de terceros, inicio de sesión/registro, centro de capacitación.",
+      "technologies": [
+        "Lightning web components",
+        "HTML, CSS, JS",
+        "Apex",
+        "Visualforce",
+        "Salesforce Experience cloud",
+        "RestAPI"
+      ]
+    },
+    {
+      "title": "Portal del cliente HCA (Hyundai, Kia, Génesis)",
+      "image": "hca.png",
+      "description": "Portal de clientes australianos de Hyunda, Kia y Genesis. Realizado con la nube de experiencia de Salesforce. Tiene representación dinámica de datos, uso de herramientas de terceros, sistemas de cálculo, sistema de pago, inicio de sesión/registro.",
+      "technologies": [
+        "Lightning web components",
+        "HTML, CSS, JS",
+        "Apex",
+        "Visualforce",
+        "Salesforce Experience cloud",
+        "RestAPI"
+      ]
+    },
+    {
+      "title": "Chat multimensajería I2OC",
+      "image": "omnichat.png",
+      "description": "I2OC chat es la aplicación Salesforce multimensajería que permite conectarse con múltiples canales como Telegram, Line, Whatsapp y Wechat a la vez. Implica: activadores de objetos personalizados, eventos de plataforma, componentes de aplicaciones de mensajería y componentes personalizados que permiten crear conexiones y mantener credenciales.",
+      "technologies": [
+        "RestAPI",
+        "Lightning web components",
+        "HTML, CSS, JS",
+        "TailwindCSS",
+        "Visualforce",
+        "Apex"
+      ]
+    },
+    {
+      "title": "Sitio web de viajes para FlyTrip",
+      "image": "fly-trip.png",
+      "description": "Sitio web de agencia de viajes realizado con componentes Vite React JSX y TailwindCSS",
+      "technologies": ["HTML, CSS, JS", "ReactJS", "TailwindCSS"]
+    }
+  ],
+  "contact": {
+    "address": "767 Quinta Avenida, Nueva York, NY 10153",
+    "phoneNo": "+998 99 889 01 33",
+    "email": "asadkhojimatov@gmail.com"
+  }
+}

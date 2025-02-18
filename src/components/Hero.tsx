@@ -1,4 +1,4 @@
-import { HERO_CONTENT } from '../utils';
+import { useContent } from '../utils';
 import React from 'react';
 import PROFILE from '../assets/profile.jpeg';
 
@@ -28,6 +28,8 @@ const container = (
 };
 
 const Hero: React.FC = () => {
+  const { HERO_CONTENT, NAME } = useContent();
+
   return (
     <div className="border-b border-neutral-900 pb-4 lg:mb-35">
       <div className="flex flex-wrap">
@@ -39,7 +41,7 @@ const Hero: React.FC = () => {
               animate="visible"
               className="pb-16 text-6xl font-thin tracking-tight lg:mt-16 lg:text-7xl"
             >
-             Jorge Cortez
+              {NAME}
             </motion.h1>
             <motion.span
               variants={container(0.5)}

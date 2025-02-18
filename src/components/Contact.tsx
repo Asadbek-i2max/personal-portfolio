@@ -1,9 +1,11 @@
 import React from 'react';
 
-import { CONTACT } from '../utils';
+import { useContent } from '../utils';
 import { motion } from 'framer-motion';
 
 const Contact: React.FC = () => {
+  const { CONTACT, BLOCK_TITLE } = useContent();
+
   return (
     <div className="border-b border-neutral-900 pb-20">
       <motion.h1
@@ -12,7 +14,7 @@ const Contact: React.FC = () => {
         transition={{ duration: 0.5 }}
         className="my-10 text-center text-4xl"
       >
-        Get in touch
+        {BLOCK_TITLE.contact}
       </motion.h1>
       <div className="text-center tracking-tighter">
         <motion.p
@@ -31,10 +33,7 @@ const Contact: React.FC = () => {
         >
           {CONTACT.phoneNo}
         </motion.p>
-        <a
-          href="#"
-          className="border-b"
-        >
+        <a href="#" className="border-b">
           {CONTACT.email}
         </a>
       </div>

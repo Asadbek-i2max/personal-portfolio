@@ -8,6 +8,8 @@ import { DiNodejs } from 'react-icons/di';
 import { AiOutlineConsoleSql } from 'react-icons/ai';
 import { motion, Variants } from 'framer-motion';
 
+import { useContent } from '../utils';
+
 const iconVariants = (duration: number): Variants => ({
   initial: { y: -10 },
   animate: {
@@ -22,6 +24,7 @@ const iconVariants = (duration: number): Variants => ({
 });
 
 const Tech: React.FC = () => {
+  const { BLOCK_TITLE } = useContent();
   return (
     <div className="border-b border-neutral-800 pb-24">
       <motion.h1
@@ -30,7 +33,7 @@ const Tech: React.FC = () => {
         transition={{ duration: 1.5 }}
         className="my-20 text-center text-4xl"
       >
-        Technologies
+        {BLOCK_TITLE.tech}
       </motion.h1>
       <motion.div
         whileInView={{ opacity: 1, x: 0 }}
