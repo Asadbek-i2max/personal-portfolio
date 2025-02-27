@@ -10,7 +10,8 @@ const skills: string[] = [
   'TailwindCss',
   'SASS',
   'SCSS',
-  'Typescript',
+  'NodeJs',
+  'Zustand',
   'Apex',
   'LWC',
   'RestApi',
@@ -18,8 +19,9 @@ const skills: string[] = [
   'MySQL',
   'SOQL/SOSL',
   'Salesforce lightning',
-  'Zustand',
   'Visualforce',
+  'Salesforce Service/Experience clouds',
+  'Git/Github',
 ];
 
 const Skills: React.FC = () => {

@@ -1,5 +1,5 @@
 {
-  "name": "Jorge Cortez",
+  "name": "Asadbek Khojimatov",
   "blockTitle": {
     "about": "Sobre mí",
     "tech": "Tecnologías",
@@ -8,8 +8,8 @@
     "projects": "Proyectos",
     "contact": "Contacto"
   },
-  "heroContent": "Soy Alejandro Herrera, un apasionado desarrollador Front-End que transforma ideas en experiencias visualmente atractivas, interactivas y fáciles de usar. Con un gran amor por el diseño limpio, los píxeles perfectos y la funcionalidad sin problemas, me especializo en la creación de aplicaciones web modernas que no solo se ven geniales, sino que también son cómodas de usar. ¡Creemos algo increíble juntos! 🚀",
-  "aboutContent": "Hola, soy Jorge Cortez, un desarrollador Front-End y de Salesforce apasionado por la creación de aplicaciones intuitivas, escalables y de alto rendimiento. Mi trayectoria en el desarrollo combina la creación de experiencias web modernas con un profundo conocimiento del ecosistema de Salesforce, fusionando lo mejor de ambos mundos. En el Front-End, me especializo en ReactJS, TypeScript y frameworks modernos para crear interfaces rápidas, atractivas y fáciles de usar.",
+  "heroContent": "",
+  "aboutContent": "Nací el 29 de agosto de 2001 (23 años). Me especializo en desarrollo front-end con ReactJS, y frameworks UI modernos, experiencias fáciles de usar. Mi experiencia se extiende al ecosistema de Salesforce, donde he trabajado extensamente con integraciones de Lightning Web Components (LWC), Apex, Visualforce y REST API para crear soluciones escalables e impulsadas por el negocio. Actualmente trabajo en i2max, uno de los principales socios Platinum de Salesforce de Corea del Sur, donde contribuyo a proyectos complejos que van desde integraciones multimensajería (Telegram, Line, WhatsApp, WeChat) hasta portales Experience Cloud para marcas globales como Hyundai, Kia y Genesis. Mi trabajo implica diseñar interfaces de usuario dinámicas, integrar herramientas de terceros y optimizar el rendimiento del sistema para clientes empresariales.",
   "experiences": [
     {
       "year": "2022 - Presente",

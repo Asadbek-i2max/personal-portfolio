@@ -1,12 +1,12 @@
 import React from 'react';
 
 import { RiReactjsLine } from 'react-icons/ri';
-import { SiTypescript } from 'react-icons/si';
+import { SiSalesforce } from 'react-icons/si';
 import { IoLogoJavascript } from 'react-icons/io5';
-import { RiNextjsFill } from 'react-icons/ri';
-import { DiNodejs } from 'react-icons/di';
+import { FaBoltLightning } from 'react-icons/fa6';
 import { AiOutlineConsoleSql } from 'react-icons/ai';
 import { motion, Variants } from 'framer-motion';
+import { DiNodejs } from 'react-icons/di';
 
 import { useContent } from '../utils';
 
@@ -50,14 +50,6 @@ const Tech: React.FC = () => {
           <RiReactjsLine className="text-7xl text-cyan-400" />
         </motion.div>
         <motion.div
-          variants={iconVariants(3)}
-          initial="initial"
-          animate="animate"
-          className="rounded-2xl border-4 border-neutral-800 p-4"
-        >
-          <SiTypescript className="text-7xl text-blue-500" />
-        </motion.div>
-        <motion.div
           variants={iconVariants(4)}
           initial="initial"
           animate="animate"
@@ -71,14 +63,6 @@ const Tech: React.FC = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <RiNextjsFill className="text-7xl text-white-500" />
-        </motion.div>
-        <motion.div
-          variants={iconVariants(2.5)}
-          initial="initial"
-          animate="animate"
-          className="rounded-2xl border-4 border-neutral-800 p-4"
-        >
           <DiNodejs className="text-7xl text-green-500" />
         </motion.div>
         <motion.div
@@ -88,6 +72,22 @@ const Tech: React.FC = () => {
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
           <AiOutlineConsoleSql className="text-7xl text-red-500" />
+        </motion.div>
+        <motion.div
+          variants={iconVariants(3)}
+          initial="initial"
+          animate="animate"
+          className="rounded-2xl border-4 border-neutral-800 p-5"
+        >
+          <SiSalesforce className="text-7xl text-blue-500" />
+        </motion.div>
+        <motion.div
+          variants={iconVariants(2.5)}
+          initial="initial"
+          animate="animate"
+          className="rounded-2xl border-4 border-neutral-800 p-4"
+        >
+          <FaBoltLightning className="text-7xl text-purple-400" />
         </motion.div>
       </motion.div>
     </div>

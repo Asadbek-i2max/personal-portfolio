@@ -1,5 +1,5 @@
 {
-  "name": "Хорхе Кортес",
+  "name": "Asadbek Khojimatov",
   "blockTitle": {
     "about": "Мен ҳақимда",
     "tech": "Технологиялар",
@@ -8,8 +8,8 @@
     "projects": "Лойиҳалар",
     "contact": "Боғланинг"
   },
-  "heroContent": "Мен Алехандро Эррераман, ғояларни визуал жиҳатдан жозибадор, интерактив ва фойдаланувчи учун қулай тажрибага айлантирадиган Front-End дастурчиси. Мен аниқ UI, пикселга мос дизайн ва мукаммал функционалликни яхши кўраман. Замонавий веб-иловаларни яратишга ихтисослашганман, улар нафақат чиройли кўринишга эга, балки ишлатиш учун жуда қулай. Келинг, бирга ажойиб нарса яратайлик! 🚀",
-  "aboutContent": "Салом, мен Хорхе Кортес, Front-End ва Salesforce дастурчиси. Мен интуитив, кенгайувчан ва юқори самарадорликка эга илова яратишни яхши кўраман. Менинг дастурлаш соҳасидаги йўлларим замонавий веб-тажрибалар яратиш ва Salesforce экотизимидаги чуқур билимларни бирлаштиришдан иборат. Front-End соҳасида ReactJS, TypeScript ва замонавий UI-frameworkлар билан ишлашга ихтисослашганман.",
+  "heroContent": "",
+  "aboutContent": "Men 2001 yil 29 avgustda tug'ilganman (23 yoshda). Men ReactJS va zamonaviy UI ramkalari, foydalanuvchilarga qulay tajribalar bilan front-end ishlab chiqishga ixtisoslashganman. Mening tajribam Salesforce ekotizimiga taalluqlidir, u yerda men Lightning Web Components (LWC), Apex, Visualforce va REST API integratsiyalari bilan kengaytiriladigan, biznesga asoslangan yechimlarni yaratish uchun keng ishladim. Hozirda men Janubiy Koreyaning eng yaxshi Salesforce Platinum hamkorlaridan biri boʻlgan i2max kompaniyasida ishlayman, u yerda multimessenjer integratsiyasidan (Telegram, Line, WhatsApp, WeChat) Hyundai, Kia va Genesis kabi global brendlar uchun Experience Cloud portallarigacha boʻlgan murakkab loyihalarga hissa qoʻshyapman. Mening ishim dinamik foydalanuvchi interfeyslarini arxitektura qilish, uchinchi tomon vositalarini birlashtirish va korporativ mijozlar uchun tizim ish faoliyatini optimallashtirishni o'z ichiga oladi.",
   "experiences": [
     {
       "year": "2022 - Ҳозирги кун",

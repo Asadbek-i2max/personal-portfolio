@@ -28,7 +28,7 @@ const container = (
 };
 
 const Hero: React.FC = () => {
-  const { HERO_CONTENT, NAME } = useContent();
+  const { NAME } = useContent();
 
   return (
     <div className="border-b border-neutral-900 pb-4 lg:mb-35">
@@ -49,16 +49,16 @@ const Hero: React.FC = () => {
               animate="visible"
               className="bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text text-4xl tracking-tight text-transparent"
             >
-              Front-end developer
+              Web Developer
             </motion.span>
-            <motion.p
+            {/* <motion.p
               variants={container(1)}
               initial="hidden"
               animate="visible"
               className="my-2 max-w-xl py-6 font-light tracking-tighter"
             >
               {HERO_CONTENT}
-            </motion.p>
+            </motion.p> */}
           </div>
         </div>
         <div className="w-full lg:w-1/2 lg:p-8">
