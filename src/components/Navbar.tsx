@@ -27,9 +27,15 @@ const Navbar: React.FC = () => {
         <img src={LOGO} alt="logo" className="mx-2 w-16 rounded-xl" />
       </div>
       <div className="m-8 flex items-center justify-center gap-4 text-2xl">
-        <FaLinkedin className="hover:text-blue-300" />
-        <FaTelegram className="hover:text-blue-300" />
-        <FaGithub className="hover:text-blue-300" />
+        <a href="https://linkedin.com/in/webdev0133" target="_blank">
+          <FaLinkedin className="hover:text-blue-300" />
+        </a>
+        <a href="https://t.me/sanctity1" target="_blank">
+          <FaTelegram className="hover:text-blue-300" />
+        </a>
+        <a href="https://github.com/Asadbek-i2max" target="_blank">
+          <FaGithub className="hover:text-blue-300" />
+        </a>
 
         <div className="relative">
           <button
