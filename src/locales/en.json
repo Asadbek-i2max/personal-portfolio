@@ -1,5 +1,5 @@
 {
-  "name": "Jorge Cortez",
+  "name": "Asadbek Khojimatov",
   "blockTitle": {
     "about": "About me",
     "tech": "Technologies",
@@ -8,8 +8,8 @@
     "projects": "Projects",
     "contact": "Get in touch"
   },
-  "heroContent": "I'm Alejandro Herrera, a passionate Front-End Developer who transforms ideas into visually stunning, interactive, and user-friendly experiences. With a deep love for clean UI, pixel-perfect designs, and seamless functionality, I specialize in building modern web applications that don't just look great—they feel great to use. Let's craft something amazing together. 🚀",
-  "aboutContent": "Hi, I’m Jorge Cortez, a Front-End & Salesforce Developer passionate about building intuitive, scalable, and high-performance applications. My journey in development has been a mix of crafting modern web experiences and diving deep into the Salesforce ecosystem, blending the best of both worlds. On the front-end, I specialize in ReactJS, TypeScript, and modern UI frameworks to create fast, user-friendly, and visually appealing interfaces.",
+  "heroContent": "",
+  "aboutContent": "I was born on August 29, 2001 (23 years old). I specialize in front-end development with ReactJS, modern UI frameworks, user-friendly experiences. My expertise extends into the Salesforce ecosystem, where I have worked extensively with Lightning Web Components (LWC), Apex, Visualforce, and REST API integrations to build scalable, business-driven solutions. Currently, I work at i2max, one of South Korea’s top Salesforce Platinum Partners, where I contribute to complex projects ranging from multimessenger integrations (Telegram, Line, WhatsApp, WeChat) to Experience Cloud portals for global brands like Hyundai, Kia, and Genesis. My work involves architecting dynamic user interfaces, integrating third-party tools, and optimizing system performance for enterprise clients.",
   "experiences": [
     {
       "year": "2022 - Present",
